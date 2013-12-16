@@ -28,4 +28,4 @@ startup
 
 ## Github协作
 
-[Howto Github](md/howto_github.md)
+[Howto Github](https://github.com/extensivepro/extensivepro.github.io/wiki/howto-work-with-github)
