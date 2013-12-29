@@ -24,9 +24,9 @@ startup
 
 ## Javascript开发
 
-[Howto Javascript](md/howto_javascript.md)
-[Howto collaboration](md/howto_collaboration.md)
+- [Howto Javascript](md/howto_javascript.md)
+- [Howto collaboration](md/howto_collaboration.md)
 
 ## Github协作
 
-[Howto Github](https://github.com/extensivepro/extensivepro.github.io/wiki/howto-work-with-github)
+- [Howto Github](https://github.com/extensivepro/extensivepro.github.io/wiki/howto-work-with-github)
