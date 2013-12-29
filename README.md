@@ -25,6 +25,7 @@ startup
 ## Javascript开发
 
 [Howto Javascript](md/howto_javascript.md)
+[Howto collaboration](md/howto_collaboration.md)
 
 ## Github协作
 
